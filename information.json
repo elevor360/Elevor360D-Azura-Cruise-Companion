@@ -1,6 +1,6 @@
 {
-  "title": "Azura Passenger Information",
-  "updated": "2026-10-19 — V1 initial ship guide",
+  "title": "Azura Passenger Information — V2",
+  "updated": "2026-10-19 — V2 expanded passenger guide",
   "sections": [
     {
       "heading": "Welcome aboard Azura",
@@ -37,6 +37,30 @@
     {
       "heading": "Information and advertisements",
       "body": "Public information and adverts can be updated by the publisher using the repository JSON files. Updates require an internet connection."
+    },
+    {
+      "heading": "Dining reservations and dietary needs",
+      "body": "Check your dining allocation and any reservation requirements after boarding. Speciality dining may carry an additional charge. Tell the restaurant team about allergies or dietary needs; do not rely solely on this independent guide."
+    },
+    {
+      "heading": "First day aboard",
+      "body": "Keep your boarding documents handy, follow the muster/safety instructions, locate your cabin and identify the nearest lift or stair access. Check the daily programme for opening times and activities."
+    },
+    {
+      "heading": "Sea-day planning",
+      "body": "Use My Cruise to record shows, meals, activities and meeting times. Check the onboard daily programme for changes and allow extra time to move between venues."
+    },
+    {
+      "heading": "Going ashore",
+      "body": "Confirm the official all-aboard time and whether the port uses tenders. Check local versus ship time, carry required documents and keep emergency contact information from the ship."
+    },
+    {
+      "heading": "Accessibility and family facilities",
+      "body": "Ask the ship team about accessible routes, lift availability, family facilities and activity requirements. Some venues and facilities may require advance booking."
+    },
+    {
+      "heading": "Sharing Azura",
+      "body": "Use the Share App page to share the correct published Azura link or QR code. An internet connection is needed when someone opens the link for the first time."
     }
   ]
 }

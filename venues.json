@@ -33,7 +33,7 @@
     "name": "Sindhu",
     "category": "Dining",
     "deck": "Check current Azura deck plan",
-    "description": "Speciality Indian-inspired dining; booking and extra charges may apply."
+    "description": "Indian-inspired speciality dining. Ask onboard about reservations, menu and supplements."
   },
   {
     "name": "The Glass House",
@@ -51,7 +51,7 @@
     "name": "Playhouse Theatre",
     "category": "Entertainment",
     "deck": "Check current Azura deck plan",
-    "description": "Theatre performances; consult the daily programme."
+    "description": "Theatre shows and performances. Confirm times and seating advice in the daily programme."
   },
   {
     "name": "Manhattan",
@@ -87,7 +87,7 @@
     "name": "Oasis Spa",
     "category": "Wellness",
     "deck": "Check current Azura deck plan",
-    "description": "Spa and treatments; reservations and charges may apply."
+    "description": "Spa and wellness treatments. Booking and additional charges may apply."
   },
   {
     "name": "Gym",
