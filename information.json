@@ -1,0 +1,42 @@
+{
+  "title": "Azura Passenger Information",
+  "updated": "2026-10-19 — V1 initial ship guide",
+  "sections": [
+    {
+      "heading": "Welcome aboard Azura",
+      "body": "Independent Elevor360D passenger guide, not affiliated with P&O Cruises. Always follow current onboard signs and crew instructions."
+    },
+    {
+      "heading": "Official ship information",
+      "body": "P&O Cruises Azura overview (internet required): https://www.pocruises.com/cruise-ships/azura/overview\nConsult the official website for the latest deck plans and ship information. Verify venue and cabin locations before travel."
+    },
+    {
+      "heading": "Dining",
+      "body": "Azura dining options may include Oriental, Peninsular, Meridian, Venezia, Verona, Sindhu and The Glass House. Availability, menus, reservations and charges may change; check onboard."
+    },
+    {
+      "heading": "Entertainment",
+      "body": "Check the daily programme for Playhouse Theatre, Manhattan and Malabar events, along with other ship activities."
+    },
+    {
+      "heading": "Deck navigation",
+      "body": "The in-app guide is for orientation, not an official cabin or muster plan. Venue decks are intentionally marked as unverified. Use the latest official deck plan."
+    },
+    {
+      "heading": "Pre-cruise checklist",
+      "body": "Check passport and travel requirements, luggage labels, embarkation instructions, insurance and boarding time."
+    },
+    {
+      "heading": "Port visits",
+      "body": "Record port plans in My Cruise. Always check ship time, local time and the official all-aboard deadline."
+    },
+    {
+      "heading": "Offline use and backups",
+      "body": "Open the app online at least once before relying on offline use. Your personal records stay on this device; back them up before clearing browser data."
+    },
+    {
+      "heading": "Information and advertisements",
+      "body": "Public information and adverts can be updated by the publisher using the repository JSON files. Updates require an internet connection."
+    }
+  ]
+}

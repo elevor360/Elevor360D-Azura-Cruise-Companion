@@ -1,0 +1,110 @@
+[
+  {
+    "name": "Oriental Restaurant",
+    "category": "Dining",
+    "deck": "Check current Azura deck plan",
+    "description": "Main dining restaurant; check current dining allocation and hours."
+  },
+  {
+    "name": "Peninsular Restaurant",
+    "category": "Dining",
+    "deck": "Check current Azura deck plan",
+    "description": "Main dining restaurant; check dining arrangements onboard."
+  },
+  {
+    "name": "Meridian Restaurant",
+    "category": "Dining",
+    "deck": "Check current Azura deck plan",
+    "description": "Main dining restaurant; consult daily opening times."
+  },
+  {
+    "name": "Verona",
+    "category": "Dining",
+    "deck": "Check current Azura deck plan",
+    "description": "Casual dining venue; check current service."
+  },
+  {
+    "name": "Venezia",
+    "category": "Dining",
+    "deck": "Check current Azura deck plan",
+    "description": "Buffet-style dining; hours and offering may vary."
+  },
+  {
+    "name": "Sindhu",
+    "category": "Dining",
+    "deck": "Check current Azura deck plan",
+    "description": "Speciality Indian-inspired dining; booking and extra charges may apply."
+  },
+  {
+    "name": "The Glass House",
+    "category": "Dining",
+    "deck": "Check current Azura deck plan",
+    "description": "Wine and food venue; check current menu and prices."
+  },
+  {
+    "name": "The Epicurean",
+    "category": "Dining",
+    "deck": "Check current Azura deck plan",
+    "description": "Speciality dining; check onboard availability and charges."
+  },
+  {
+    "name": "Playhouse Theatre",
+    "category": "Entertainment",
+    "deck": "Check current Azura deck plan",
+    "description": "Theatre performances; consult the daily programme."
+  },
+  {
+    "name": "Manhattan",
+    "category": "Entertainment",
+    "deck": "Check current Azura deck plan",
+    "description": "Evening entertainment venue; schedules vary."
+  },
+  {
+    "name": "Malabar",
+    "category": "Entertainment",
+    "deck": "Check current Azura deck plan",
+    "description": "Live entertainment and social venue; check programme."
+  },
+  {
+    "name": "Brodie’s",
+    "category": "Bars",
+    "deck": "Check current Azura deck plan",
+    "description": "Pub-style venue; opening times and events vary."
+  },
+  {
+    "name": "The Planet Bar",
+    "category": "Bars",
+    "deck": "Check current Azura deck plan",
+    "description": "Bar and lounge; check current offering."
+  },
+  {
+    "name": "The Blue Bar",
+    "category": "Bars",
+    "deck": "Check current Azura deck plan",
+    "description": "Bar area; check onboard signage and hours."
+  },
+  {
+    "name": "Oasis Spa",
+    "category": "Wellness",
+    "deck": "Check current Azura deck plan",
+    "description": "Spa and treatments; reservations and charges may apply."
+  },
+  {
+    "name": "Gym",
+    "category": "Wellness",
+    "deck": "Check current Azura deck plan",
+    "description": "Fitness facilities; check access and hours."
+  },
+  {
+    "name": "Swimming pools",
+    "category": "Leisure",
+    "deck": "Check current Azura deck plan",
+    "description": "Check current pool availability and safety notices."
+  },
+  {
+    "name": "The Reef",
+    "category": "Family",
+    "deck": "Check current Azura deck plan",
+    "description": "Children’s activities; check age-group registration."
+  }
+]
