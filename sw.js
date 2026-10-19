@@ -1,7 +1,7 @@
 'use strict';
-const CACHE_NAME = 'elevor360d-azura-static-v2';
+const CACHE_NAME = 'elevor360d-azura-static-v3';
 const PREFIX = 'elevor360d-azura-static-';
-const OFFLINE_FILES = ['./','./index.html','./style.css?v=azura2','./app.js?v=azura2','./manifest.webmanifest','./icon.svg','./share-qr.png','./venues.json','./information.json?v=azura2','./advert-settings.json'];
+const OFFLINE_FILES = ['./','./index.html','./style.css?v=azura3','./app.js?v=azura3','./manifest.webmanifest','./icon.svg','./share-qr.png','./venues.json','./information.json?v=azura3','./advert-settings.json'];
 self.addEventListener('install',event => event.waitUntil(caches.open(CACHE_NAME).then(cache => cache.addAll(OFFLINE_FILES)).then(() => self.skipWaiting())));
 self.addEventListener('activate',event => event.waitUntil(caches.keys().then(keys => Promise.all(keys.filter(key => key.startsWith(PREFIX) && key !== CACHE_NAME).map(key => caches.delete(key)))).then(() => self.clients.claim())));
 self.addEventListener('fetch',event => {

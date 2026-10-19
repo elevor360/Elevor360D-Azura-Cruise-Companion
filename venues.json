@@ -2,19 +2,19 @@
   {
     "name": "Oriental Restaurant",
     "category": "Dining",
-    "deck": "Check current Azura deck plan",
+    "deck": "5 (P Deck)",
     "description": "Main dining restaurant; check current dining allocation and hours."
   },
   {
     "name": "Peninsular Restaurant",
     "category": "Dining",
-    "deck": "Check current Azura deck plan",
+    "deck": "6 (F Deck)",
     "description": "Main dining restaurant; check dining arrangements onboard."
   },
   {
     "name": "Meridian Restaurant",
     "category": "Dining",
-    "deck": "Check current Azura deck plan",
+    "deck": "5–6 (P / F Deck)",
     "description": "Main dining restaurant; consult daily opening times."
   },
   {
@@ -38,7 +38,7 @@
   {
     "name": "The Glass House",
     "category": "Dining",
-    "deck": "Check current Azura deck plan",
+    "deck": "6–7 (F / Prom Deck)",
     "description": "Wine and food venue; check current menu and prices."
   },
   {
@@ -50,7 +50,7 @@
   {
     "name": "Playhouse Theatre",
     "category": "Entertainment",
-    "deck": "Check current Azura deck plan",
+    "deck": "6–7 (F / Prom Deck)",
     "description": "Theatre shows and performances. Confirm times and seating advice in the daily programme."
   },
   {
@@ -74,7 +74,7 @@
   {
     "name": "The Planet Bar",
     "category": "Bars",
-    "deck": "Check current Azura deck plan",
+    "deck": "18 (Ocean Deck)",
     "description": "Bar and lounge; check current offering."
   },
   {
@@ -86,13 +86,13 @@
   {
     "name": "Oasis Spa",
     "category": "Wellness",
-    "deck": "Check current Azura deck plan",
+    "deck": "16 (Aqua Deck)",
     "description": "Spa and wellness treatments. Booking and additional charges may apply."
   },
   {
     "name": "Gym",
     "category": "Wellness",
-    "deck": "Check current Azura deck plan",
+    "deck": "16 (Aqua Deck)",
     "description": "Fitness facilities; check access and hours."
   },
   {

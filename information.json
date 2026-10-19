@@ -1,6 +1,6 @@
 {
-  "title": "Azura Passenger Information — V2",
-  "updated": "2026-10-19 — V2 expanded passenger guide",
+  "title": "Azura Passenger Information — Final Customer Release",
+  "updated": "2026-10-19 — V3 final customer release",
   "sections": [
     {
       "heading": "Welcome aboard Azura",
@@ -8,7 +8,7 @@
     },
     {
       "heading": "Official ship information",
-      "body": "P&O Cruises Azura overview (internet required): https://www.pocruises.com/cruise-ships/azura/overview\nConsult the official website for the latest deck plans and ship information. Verify venue and cabin locations before travel."
+      "body": "Official P&O Cruises Azura overview and interactive deck plans (internet required): https://www.pocruises.com/cruise-ships/azura/overview\nOfficial Azura deck plan PDF (internet required): https://www.pocruises.com/content/dam/po/inventory-assets/ships/AZ/Azura-Deck-Plan-W26-27.pdf\nCheck current official information and onboard signage before relying on any deck or venue details."
     },
     {
       "heading": "Dining",
@@ -20,7 +20,7 @@
     },
     {
       "heading": "Deck navigation",
-      "body": "The in-app guide is for orientation, not an official cabin or muster plan. Venue decks are intentionally marked as unverified. Use the latest official deck plan."
+      "body": "The in-app ship orientation is a simplified schematic, not an official numbered cabin or muster plan. Deck 5 is P Deck, 6 is F Deck, 7 is Prom Deck, 8 is E Deck, 9 is D Deck, 10 is C Deck, 11 is B Deck, 12 is A Deck, 14 is Riviera Deck, 15 is Lido Deck, 16 is Aqua Deck, 17 is Sun Deck, 18 is Ocean Deck and 19 is Sky Deck. Use the latest official deck plan for cabin positions, accessible routes and muster information."
     },
     {
       "heading": "Pre-cruise checklist",
@@ -61,6 +61,14 @@
     {
       "heading": "Sharing Azura",
       "body": "Use the Share App page to share the correct published Azura link or QR code. An internet connection is needed when someone opens the link for the first time."
+    },
+    {
+      "heading": "Last-day and disembarkation checklist",
+      "body": "Check your onboard account, luggage collection instructions, transfer arrangements and final disembarkation information. Keep medication, travel documents and essentials in your hand luggage."
+    },
+    {
+      "heading": "A note on prices and schedules",
+      "body": "Dining availability, opening hours, entertainment, onboard charges and drinks-package terms can change. This independent app is a planning aid and does not provide live reservations or official safety instructions."
     }
   ]
 }
